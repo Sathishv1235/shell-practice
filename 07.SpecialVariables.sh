@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "All variables: $@"
+echo "All arguments passed here are: $@"
+echo "No.of Arguments passed $#"
