@@ -1,7 +1,10 @@
 #!/bin/bash
 
-echo "Trump:: Hey Musk, How are you?"
-echo "Musk:: Hello Trump, I am fine. How are you doing"
-echo "Trump: I am fine too. What's up?"
-echo "Musk:: Nohting, just going to Mars now, will you come?"
-echo "Trump:: Sorry, you carry on! I will come once you come back"
+name1=$1
+name2=$2
+
+echo "name1:: Hey name2, How are you?"
+echo "name2:: Hello name1, I am fine. How are you doing"
+echo "name1: I am fine too. What's up?"
+echo "name2:: Nohting, just going to Mars now, will you come?"
+echo "name1:: Sorry, you carry on! I will come once you come back"
