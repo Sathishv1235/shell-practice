@@ -8,4 +8,4 @@ echo "User name who runs is $USER"
 echo "User home directory: $HOME"
 echo "Process ID of script: $$"
 sleep 40 &
-echo "Process ID of previous command: $!"
+echo "Process ID of previous command: $!" 
