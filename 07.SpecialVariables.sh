@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "All arguments passed here are: $@"
+echo "All arguments passed here are using '$@': $@"
 echo "No.of Arguments passed $#"
 echo "Script name $0"
 echo "Present Working Directory: $PWD"
